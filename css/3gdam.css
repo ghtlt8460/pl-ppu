@@ -74,6 +74,11 @@ src: url('../ft-box/3gdam/GabiaCheongyeon.woff2') format('woff2'); }
 font-family: "GowunDodumR";
 src: url('../ft-box/3gdam/GowunDodumR.woff2') format('woff2'); }
 
+/* 고운바탕 */
+@font-face {
+font-family: "GowunBatangR";
+src: url('../ft-box/3gdam/GowunBatangR.woff2') format('woff2'); }
+
 /* 경기천년바탕체 */
 @font-face {
 font-family: "GyeonggibatangR";
