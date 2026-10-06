@@ -204,6 +204,11 @@ src: url('../ft-box/3gdam/ChosunGyeon.woff2') format('woff2'); }
 font-family: "JoseonGungseo";
 src: url('../ft-box/3gdam/JoseonGungseo.woff2') format('woff2'); }
 
+/* 조선굴림 */
+@font-face {
+font-family: "ChosunGulrim";
+src: url('../ft-box/3gdam/ChosunGulrim.woff2') format('woff2'); }
+
 /* 조선신명조체 */
 @font-face {
 font-family: "JoseonSinmyeongjo";
